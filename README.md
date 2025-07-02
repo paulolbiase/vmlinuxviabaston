@@ -45,8 +45,16 @@ az deployment group create \
   --parameters adminPassword='definaseupasswordaqui'
 
  ## Prints
-cli.jpg
-rg-bicep.jpg
-vmlinux.png
+## 📸 Prints
+
+### 🟢 CLI no Cloud Shell
+![CLI Deploy](img/cli.jpg)
+
+### 🟢 Recursos criados no Resource Group
+![Resource Group](img/rg-bicep.jpg)
+
+### 🟢 Acesso à VM Linux via Bastion
+![Terminal VM](img/vmlinux.png)
+
 
 
