@@ -45,8 +45,8 @@ az deployment group create \
   --parameters adminPassword='definaseupasswordaqui'
 
  ## Prints
-![image](https://github.com/user-attachments/assets/1389abcc-1a1a-4308-b51c-22d35a885164)
-![image](https://github.com/user-attachments/assets/9c070c1c-b9de-4041-b904-39ba74e81261)
-![image](https://github.com/user-attachments/assets/d2e63f57-1065-47fc-99b9-af8bd66b1e02)
+img/cli.jpg
+img/rg-bicep.jpg
+img/vmlinux.png
 
 
