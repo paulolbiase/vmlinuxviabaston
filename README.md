@@ -37,6 +37,8 @@ O arquivo `main.bicep` contém toda a definição da infraestrutura.
 ---
 
 ## 🚀 Comandos Executados
+O seguinte comando foi executado via Azure CLI (no Cloud Shell) para fazer o deploy do template Bicep:
+
 az deployment group create \
   --resource-group myResourceGroup \
   --template-file main.bicep \
