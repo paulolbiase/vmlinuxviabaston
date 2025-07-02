@@ -45,8 +45,8 @@ az deployment group create \
   --parameters adminPassword='definaseupasswordaqui'
 
  ## Prints
-img/cli.jpg
-img/rg-bicep.jpg
-img/vmlinux.png
+cli.jpg
+rg-bicep.jpg
+vmlinux.png
 
 
